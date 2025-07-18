@@ -1,16 +1,24 @@
-## Hi there 👋
+<img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/bdccdf8c-a49c-4c87-a1b1-71ac54f73fde" />
+const introduction = {
+  name: "Izakahr Echem",
+  profession: "Laravel Web Developer",
+  location: "Cagayan de Oro, Philippines",
+  passions: ["Full-Stack Development", "Building Scalable Web Applications"],
+  skills: ["PHP", "Laravel", "JavaScript", "MySQL", "HTML", "CSS", "Tailwind CSS", "Linux Server Management"],
+  portfolio: "https://izakahr.dev", // Replace with your real portfolio URL if available
+  github: "https://github.com/izakahr", // Replace with your real GitHub if different
+  socialMedia: ["https://linkedin.com/in/izakahr", "mailto:izakahr25@gmail.com"], // Add or change as needed
+  quote: "Code is like humor. When you have to explain it, it’s bad. ~ Cory House"
+};
 
-<!--
-**Crackr25/Crackr25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const introduceMyself = ({ name, profession, location, passions, skills, portfolio, github, socialMedia, quote }) => {
+  console.log(`Hi there, I'm ${name}, a ${profession} based in ${location}. My passion lies in ${passions[0]} and ${passions[1]}, and I continuously strive to expand my expertise in technologies like ${skills.join(", ")}. 
 
-Here are some ideas to get you started:
+I take pride in building robust, maintainable systems and have experience leading teams and delivering production-grade solutions. You can view some of my work at my portfolio: ${portfolio}, or check out my GitHub contributions here: ${github}. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me through any of my social channels: ${socialMedia.join(", ")}.
+
+One of my favorite quotes is: "${quote}". Let’s collaborate and bring great ideas to life!`);
+};
+
+introduceMyself(introduction);
