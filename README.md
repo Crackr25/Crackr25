@@ -1,7 +1,7 @@
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/bdccdf8c-a49c-4c87-a1b1-71ac54f73fde" />
-const introduction = {
+## 👋 Introduction
 
-
+```javascript
 const introduction = {
   name: "Izakahr Echem",
   profession: "Laravel Web Developer",
@@ -37,6 +37,8 @@ One of my favorite quotes is: "${quote}". Let’s collaborate and bring great id
 };
 
 introduceMyself(introduction);
+```
+
 
 
 ### 💡 About This
