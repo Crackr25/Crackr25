@@ -39,10 +39,6 @@ One of my favorite quotes is: "${quote}". Let’s collaborate and bring great id
 introduceMyself(introduction);
 ```
 
-## 📊 GitHub Stats
-
-![Izakahr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crackr25&show_icons=true&theme=tokyonight)
-
 ## 📘 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crackr25&layout=compact&theme=tokyonight)
