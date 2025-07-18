@@ -5,9 +5,9 @@ const introduction = {
   location: "Cagayan de Oro, Philippines",
   passions: ["Full-Stack Development", "Building Scalable Web Applications"],
   skills: ["PHP", "Laravel", "JavaScript", "MySQL", "HTML", "CSS", "Tailwind CSS", "Linux Server Management"],
-  portfolio: "https://izakahr.dev", // Replace with your real portfolio URL if available
-  github: "https://github.com/izakahr", // Replace with your real GitHub if different
-  socialMedia: ["https://linkedin.com/in/izakahr", "mailto:izakahr25@gmail.com"], // Add or change as needed
+  portfolio: "(https://izakahr-blush.vercel.app/", 
+  github: "https://github.com/Crackr25", // Replace with your real GitHub if different
+  socialMedia: ["https://linkedin.com/in/izakahr", "mailto:izakahr25@gmail.com"], 
   quote: "Code is like humor. When you have to explain it, it’s bad. ~ Cory House"
 };
 
