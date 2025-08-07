@@ -4,7 +4,7 @@
 ```javascript
 const introduction = {
   name: "Izakahr Echem",
-  profession: "Laravel Web Developer",
+  profession: "Web Developer",
   location: "Cagayan de Oro, Philippines",
   passions: ["Full-Stack Development", "Building Scalable Web Applications"],
   skills: [
